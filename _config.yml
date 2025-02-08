@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
 title: noahjhan
 description: Bookmark this to keep an eye on my project updates!
+
+plugins:
+  - jekyll-redirect-from
+
+---
+redirect_to: "./basic_page.html"
+---
